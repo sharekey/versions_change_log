@@ -19,5 +19,11 @@
       "Tap on a push notification to go to the exact message",
       "Favorites are fully synced across devices, also available when you are in Gallery view."
     ]
+  },
+"2": {
+    "text": [
+      "Favorites are now available on iOS. Add/Remove from Favorites any item in your Safe.",
+      "Favorites are fully synced across devices, also available when you are in Gallery view.",
+    ]
   }
 }
