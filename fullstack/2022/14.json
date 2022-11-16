@@ -1,13 +1,16 @@
 {
   "0": {
+    "header": "MAJOR RELEASE",
     "text": [
-      "1-TO-1 CALLS UPGRADE:",
-      "Stay private by setting blur or using SHAREKEY Image as your video background;",
-      "Share your screen in a call (iPads do not support this feature);",
-      "Added sound of outgoing call and modals to confirm the end & start of a call.",
-      "Verified Members with tickmark got early access to Group Calls.",
-      "Since this release, Windows SHAREKEY App is also available for download from Microsoft Store.",
-      "Search improvements and more."
+      "1 to 1 Video Calls (app-to-app encrypted) enhanced with new features on all devices",
+      "New : Group Video Calls (app-to-app encrypted) rolled out only to verified Members with tickmark (early access to Beta version)",
+      "Blur your background (or use Sharekey background) on any device to remain private",
+      "Share your screen on any device (coming soon on iPad)",
+      "Ringtone added for outgoing calls",
+      "Confirmation added to start or end a call",
+      "Microsoft Store : Sharekey app for Windows now available for download",
+      "Search improvements to enrich the User Experience",
+      "Other improvements and bug fixes"
     ]
   }
 }
