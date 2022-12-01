@@ -2,27 +2,17 @@
  "0": {
     "header": "MAJOR RELEASE",
     "text": [
-      "1 to 1 Video Calls (app-to-app encrypted) enhanced with new features on all devices",
-      "New : Group Video Calls (app-to-app encrypted) rolled out only to verified Members with tickmark (early access to Beta version)",
-      "Blur your background (or use Sharekey background) on any device to remain private",
-      "Share your screen on any device (coming soon on iPad)",
-      "Ringtone added for outgoing calls",
-      "Confirmation added to start or end a call",
-      "Search improvements to enrich the User Experience",
-      "Other improvements and bug fixes"
+      "new features 1",
+      "new features 2",
+      "new features 3"
     ]
   },
   "1": {
     "header": "MAJOR RELEASE",
     "text": [
-      "1 to 1 Video Calls (app-to-app encrypted) enhanced with new features on all devices",
-      "New : Group Video Calls (app-to-app encrypted) rolled out only to verified Members with tickmark (early access to Beta version)",
-      "Blur your background (or use Sharekey background) on any device to remain private",
-      "Share your screen on any device (coming soon on iPad)",
-      "Ringtone added for outgoing calls",
-      "Confirmation added to start or end a call",
-      "Search improvements to enrich the User Experience",
-      "Other improvements and bug fixes"
+      "new features 4",
+      "new features 5",
+      "new features 6"
     ]
   }
 }
