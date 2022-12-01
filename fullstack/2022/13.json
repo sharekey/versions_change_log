@@ -1,6 +1,6 @@
 {
  "0": {
-    "header": "MAJOR RELEASE",
+    "header": "PATCH",
     "text": [
       "new features 1",
       "new features 2",
@@ -8,7 +8,7 @@
     ]
   },
   "1": {
-    "header": "MAJOR RELEASE",
+    "header": "PATCH",
     "text": [
       "new features 4",
       "new features 5",
