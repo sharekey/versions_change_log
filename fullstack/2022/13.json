@@ -15,7 +15,11 @@
       "new features 6"
     ]
   },
-   "2": {
+    "2": {
+    "header": "PATCH",
+    "text": []
+  },
+   "3": {
     "header": "PATCH",
     "text": [
       "new features 7",
