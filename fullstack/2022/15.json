@@ -1,12 +1,13 @@
 {
   "0": {
     "text": [
-      "Added ability to Rename Folders&Files in Chat",
-      "Added ability to move any audio message back&forward",
+      "3 ways now to send messages (new option in Settings): Enter, Shift+Enter or Ctrl+Enter",
+      "Rename Folders & Files in Direct & Channels",
+      "Move back & forward in any audio message",
       "New settings for sending message: Shift+Enter or Ctrl+Enter",
-      "Changed name from \"Safe\" to \"Drive\"",
-      "Improved performance of Calls",
-      "Fixed bugs and other improvements"
+      "\"Safe\" is renamed \"Drive\"",
+      "Calls performance improvements",
+      "Fix bugs & other improvements"
     ]
   }
 }
