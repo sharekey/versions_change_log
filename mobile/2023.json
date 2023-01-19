@@ -1,9 +1,9 @@
 {
     "1": {
         "text": [
-            "Possibility to collapse the call screen is introduced",
-            "Compression of video on uploading to chat is implemented on Android",
-            "Free space is limited to 100 MB now",
+            "Call screen can now be collapsed during a call",
+            "Compression of video when sent in DM/Channel",
+            "Free space is now limited to 100 MB",
             "Bug fixes & other improvements"
         ]
     }
