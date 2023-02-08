@@ -1,10 +1,9 @@
 {
   "0": {
     "text": [
-      "Ability to upload files to External Link",
-      "How-to guide added",
-      "Empty screens UI updated",
-      "Create Channel UI updated",
+      "MAJOR Feature : Receivers of External Links can now download and UPLOAD files on any device without the need to create an account in Sharekey.",
+      "Help Menu : How-to Tutorial to present the key features of the app.",
+      "UI improvements for Channel creation and empty screens",
       "Fix bugs & other improvements"
     ]
   }
