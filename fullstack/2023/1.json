@@ -1,7 +1,7 @@
 {
   "0": {
     "text": [
-      "NEW Major Feature: When a folder is shared using an External Link, the Receivers can now UPLOAD files to the shared folder from any device without creating a Sharekey account, if permitted by the Link Owner.",
+      "NEW Major Feature: When a folder is shared using an External Link, the Receivers can now UPLOAD files to the shared folder (if permitted by the Link Owner) from any device without creating a Sharekey account.",
       "Help section added with How-to Tutorial presenting the key features of the app.",
       "User Interface improvements for Channel creation and empty screens.",
       "Bug fixes & other improvements."
