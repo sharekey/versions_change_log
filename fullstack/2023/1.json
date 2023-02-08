@@ -1,10 +1,10 @@
 {
   "0": {
     "text": [
-      "MAJOR Feature : Receivers of External Links can now download and UPLOAD files on any device without the need to create an account in Sharekey.",
-      "Help Menu : How-to Tutorial to present the key features of the app.",
-      "UI improvements for Channel creation and empty screens",
-      "Fix bugs & other improvements"
+      "NEW Major Feature: When a folder is shared using an External Link, the Receivers can now UPLOAD files to the shared folder from any device without creating a Sharekey account, if permitted by the Link Owner.",
+      "Help section added with How-to Tutorial presenting the key features of the app.",
+      "User Interface improvements for Channel creation and empty screens.",
+      "Bug fixes & other improvements."
     ]
   }
 }
