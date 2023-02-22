@@ -6,5 +6,12 @@
             "Free space is now limited to 100 MB",
             "Bug fixes & other improvements"
         ]
+    },
+    "2": {
+        "text": [
+            "MAJOR FEATURE for External Link: When a Folder is shared using an External Link, the Receivers can now View, Download and UPLOAD files to the shared folder from any device without creating a Sharekey account. Just turn ON the option “Upload to Folder”",
+            "Discover in menu People : Indicator added to easily turn ON and OFF your visibility. By default your profile is set to NOT visible",
+            "Bug fixes & other improvements"
+        ]
     }
 }
