@@ -1,10 +1,10 @@
 {
 	"0": {
 		"text": [
-			"Prototype of Internal Viewer for PDFs.",
-			"Drag and Drop files in External link.",
-			"User Interface improvements for External link on Tablet and Mobile.",
-			"Visibility alert in Discover tab.",
+			"Secure Internal Viewer: enable private viewing of Images and PDF files. Only visible within the app. No trace left on the device. Added layer of security. Your sensitive information remains confidential. Other type files will soon be added.",
+			"External Links: Recipients can now easily UPLOAD files using the convenient Drag & Drop feature.",
+			"External Links: New convenient interface on Tablet and Mobile improving the experience to View, Download & Upload files.",
+			"Discover in menu People: Indicator added to easily turn ON and OFF your visibility. By default your profile is set to NOT visible.",
 			"Bug fixes & other improvements."
 		]
 	}
