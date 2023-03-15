@@ -1,0 +1,11 @@
+{
+	"0": {
+		"text": [
+			"Shared Media: added ability to create a Folder in Folders tab.", 
+			"External Links: enabled private viewing of PDF files via Internal Viewer for Mobile.",
+			"Cyber: improved security for Calls, Chat and Invite process.",
+			"Fixed possible crashes on sending big PDF files.",
+			"Bug fixes & other improvements."
+		]
+	}
+}
