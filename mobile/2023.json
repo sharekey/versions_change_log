@@ -13,5 +13,12 @@
             "Discover in menu People : Indicator added to easily turn ON and OFF your visibility. By default your profile is set to NOT visible",
             "Bug fixes & other improvements"
         ]
+    },
+    "3": {
+        "text": [
+            "Cybersecurity: additional advanced cryptographic protection for Video Conferencing",
+            "UX/UI improvements",
+            "Bug fixes"
+        ]
     }
 }
