@@ -1,11 +1,11 @@
 {
 	"0": {
 		"text": [
-			"Gallery: Added ability to view images more than 10mb in the App and External Link.", 
-			"Improved UI of External Link folder.",
-			"Improved UX of long names of files around the App.",
-			"Chat: added arrow button to go to the last message after scroll.",
-			"Cybersecurity: additional advanced protection for Drive.",
+			"Gallery/External Link: Images larger than 10MB can now be viewed without downloading them.", 
+			"External Link for Folder: Improved UI for better user experience.",
+			"Files with long names: Improved UX to make file management easier.",
+			"Direct Messages/Channels: Added arrow button to easily navigate to the last message.",
+			"Cybersecurity: Additional cryptographic protection for Messages & Drive to enhance data security.",
 			"Bug fixes & other improvements."
 		]
 	}
