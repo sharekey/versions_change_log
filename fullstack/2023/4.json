@@ -1,11 +1,11 @@
 {
 	"0": {
 		"text": [
-			"Gallery/External Link: Images larger than 10MB can now be viewed without downloading them.", 
+			"Cybersecurity: Additional cryptographic protection for Messages & Drive to enhance data security.",
+			"Media/External Link: Images larger than 10MB can now be viewed \"in app\" eliminating the need to download them and reducing the risk of Privacy breaches from external apps.", 
 			"External Link for Folder: Improved UI for better user experience.",
 			"Files with long names: Improved UX to make file management easier.",
-			"Direct Messages/Channels: Added arrow button to easily navigate to the last message.",
-			"Cybersecurity: Additional cryptographic protection for Messages & Drive to enhance data security.",
+			"Direct Messages/Channels: Improved navigation by adding an \"arrow button\" for quick access to the most recent message while scrolling through content.",
 			"Bug fixes & other improvements."
 		]
 	}
