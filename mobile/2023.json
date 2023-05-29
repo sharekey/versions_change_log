@@ -20,5 +20,15 @@
             "UX/UI improvements",
             "Bug fixes"
         ]
+    },
+    "4": {
+        "text": [
+            "Cybersecurity: Additional cryptographic protection for Messages & Drive to enhance data security.",
+            "Major Performance improvement including enhanced sending & scrolling experience for messages.",
+            "Improved Video Call experience: double tap on the screen to change the video display, 2 modes offered (\"contain\" vs. \"full cover\") for a better viewing experience.",
+            "Encrypted Push Notifications: it is now possible to display messages from New Contacts and New Channels without opening the app.",
+            "Channels: New indicator when messages are received.",
+            "Other bug fixes & other improvements."
+        ]
     }
 }
