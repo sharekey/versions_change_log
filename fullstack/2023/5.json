@@ -1,0 +1,11 @@
+{
+	"0": {
+		"text": [
+			"Internal Viewer: added ability to make Annotations on PDF files with Pen and Marker.",
+			"Gallery: added Internal Player for Video files.",
+			"Shared Media: added ability to rename files or folders and to delete voice messages and links.",
+			"Improved UX: added loaders in some places for Messages and Drive",
+			"Bug fixes & other improvements."
+		]
+	}
+}
