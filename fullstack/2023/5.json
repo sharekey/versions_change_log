@@ -1,11 +1,11 @@
 {
 	"0": {
 		"text": [
-			"Internal Viewer: added ability to make Annotations on PDF files with Pen and Marker.",
-			"Gallery: added Internal Player for Video files.",
-			"Shared Media: added ability to rename files or folders and to delete voice messages and links.",
-			"Improved UX: added loaders in some places for Messages and Drive",
-			"Bug fixes & other improvements."
+			"In-App Private Viewer: the convenience of private file viewing, on any device, is now complete. Seamlessly view PDFs, Images, and Videos within the application itself, eliminating the need to download them and ensuring maximum business privacy protection. Enjoy our new Video Player.",
+			"In-App Private Annotations: markup easily your PDFs using a Pen and Marker. Just like all other items, your notes are encrypted for added security and privacy. Soon, you will also be able to share them with other Members.",
+			"Improved Shared Media: additional features added to make managing your items within Shared Media even more convenient. Just like in your Direct, Channels, and Drive, you can now easily rename files and folders, delete voice messages and links, and more other advanced features.",
+			"Improved User Experience: loaders added in specific areas, such as Messages and Drive, providing clearer indications of progress.",
+			"Bug Fixes & Other Improvements: As always, we have resolved numerous bugs and implemented additional enhancements to further improve the user experience of the application."
 		]
 	}
 }
