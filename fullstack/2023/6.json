@@ -3,7 +3,7 @@
 		"text": [
 			"In-App Private Annotations: added possibility to write annotations after zooming PDF.",
 			"Improved User Experience: autosaving of annotations was made obvious by toasters in specific places.",
-			"Improved Folders Uploading: PDF and Video files inside uploaded folders will have previews in the App",
+			"Improved Folders Uploading: PDF and Video files inside uploaded folders will have previews in the App.",
 			"Bug Fixes & Other Improvements: we have resolved browsers specific issues and made in-app Private Viewers more stable."
 		]
 	}
