@@ -1,10 +1,10 @@
 {
 	"0": {
 		"text": [
-			"In-App Private Annotations: added possibility to write annotations after zooming PDF.",
-			"Improved User Experience: autosaving of annotations was made obvious by toasters in specific places.",
-			"Improved Folders Uploading: PDF and Video files inside uploaded folders will have previews in the App.",
-			"Bug Fixes & Other Improvements: we have resolved browsers specific issues and made in-app Private Viewers more stable."
+			"Annotations Zoom In/Out: To enhance your document markup experience, you can now write annotations even after zooming in/out a PDF.",
+			"Annotations Auto-Saving: Improved User Experience by displaying notifications to confirm your work is always saved.",
+			"Folder Upload Improvement: After a folder has been uploaded, you can now see the previews of PDF and Video files within all folders and sub-folders, making it easier to organize and access your content.",
+			"Bug Fixes & Other Improvements: We have addressed browser-specific issues and enhanced the stability of our In-App Viewer, ensuring a smoother and more reliable experience overall."
 		]
 	}
 }
