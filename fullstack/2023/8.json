@@ -1,13 +1,13 @@
 {
 	"0": {
 		"text": [
-            "Improved User Experience: added ability to start a call by click on calls system messages",
-			"In-App Private Viewer: enabled copy text from PDF.",
-            "Annotations User Experience: added tooltips for actions",
-			"Improved indication process of items uploading in Chat.",
-			"Group calls stability improvements",
-			"Enhanced Cybersecurity: regular cyber reviews including software libraries & packages updates to tackle potential vulnerabilities.",
-			"Bug Fixes & Other Improvements."
+			"Group Calls: significant improvements in stability.",
+			"Conferencing: easily start calls by clicking on call indicators in DMs/Channels.",
+			"Annotations: enhanced usability with added tooltips for actions.",
+			"In-App Private Viewer: convenient copy of text from PDF added.",
+			"File Upload: smooth indications when items are uploaded and encrypted in DMs/Channels.",
+			"Enhanced Cybersecurity: benefit from regular cybersecurity reviews, including updates to software libraries and packages, to address potential vulnerabilities.",
+			"Bug Fixes & Other Improvements: we addressed various bugs and made additional enhancements for a better experience."
 		]
 	}
 }
