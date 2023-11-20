@@ -41,30 +41,29 @@
     "6": {
         "ios": {
             "text": [
-                "*New* GALLERY MODE introduced in Direct/Channel and in Drive for easier viewing and navigation through items, offering a new business-driven experience exclusively available in Sharekey.",
-                "*New* SECURE VIEWER now for Images, Videos and PDF to stay In-App and benefit from advanced Privacy Controls.",
-                "No screenshots possible on any device.",
-                "Encrypted PDF annotations made in the Desktop/Web app are now visible on Mobile. All of this is accomplished exclusively using Open Source software, without the inclusion of any Third-Party software.",
-                "Clear indications are provided when the Sharekey Secure Viewer cannot open an item in-app, and an External Viewer on your device is required. Be aware that your Privacy may be compromised because these viewers enable Screenshot, Download, and Print options.",
-                "Push Notifications re-engineered across all mobile apps.",
-                "Ability to \"Rename\" and \"Print\" items from anywhere within the app.",
-                "Ability to auto-fill the verification code following the release of iOS 17.",
+                "GALLERY MODE introduced in Direct/Channel/Drive for easier navigation.",
+                "SECURE VIEWER for Images, Videos & PDF to stay In-App for advanced Privacy Controls (eg NO screenshot).",
+                "Encrypted PDF Annotations are now visible in Secure Viewer.",
+                "Clear indications when an External Viewer is required.",
+                "Push Notifications re-engineered.",
+                "‘Rename’ & ‘Print’ items anywhere in the app.",
+                "Auto-fill the Verification Code (email) following iOS 17.",
+                "Font sizes & interlining updated.",
                 "Improved app opening speed.",
-                "Font sizes & interlining have been updated across the Mobile apps to accommodate various screen sizes.",
-                "Enhanced Cybersecurity: benefit from regular cybersecurity reviews, including updates of software libraries and packages, to address potential vulnerabilities.",
-                "Bug Fixes & Many other Improvements: we addressed various bugs and made additional enhancements for a better experience."
+                "Cybersecurity benefits from regular reviews.",
+                "Bug fixes & many other Improvements."
             ]
         },
         "android": {
             "text": [
-                "GALLERY MODE introduced in Direct/Channel/Drive for easier navigation. ",
+                "GALLERY MODE introduced in Direct/Channel/Drive for easier navigation.",
                 "SECURE VIEWER for Images, Videos & PDF to stay In-App for advanced Privacy Controls (eg NO screenshot).",
-                "Encrypted PDF annotations made are now visible in Secure Viewer.",
-                "Clear indications when an External Viewer is required. ",
-                "Push Notifications re-engineered. ",
+                "Encrypted PDF Annotations are now visible in Secure Viewer.",
+                "Clear indications when an External Viewer is required.",
+                "Push Notifications re-engineered.",
                 "‘Rename’ & ‘Print’ items anywhere in the app.",
-                "Cybersecurity benefits from regular reviews. ",
-                "Bug Fixes & Many other Improvements."
+                "Cybersecurity benefits from regular reviews.",
+                "Bug fixes & many other Improvements."
             ]
         }
     }
