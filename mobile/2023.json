@@ -52,7 +52,8 @@
                 "Improved app opening speed.",
                 "Cybersecurity benefits from regular reviews.",
                 "Bug fixes & many other Improvements."
-            ]
+            ],
+            "isMajor": true
         },
         "android": {
             "text": [
@@ -64,7 +65,8 @@
                 "‘Rename’ & ‘Print’ items anywhere in the app.",
                 "Cybersecurity benefits from regular reviews.",
                 "Bug fixes & many other Improvements."
-            ]
+            ],
+            "isMajor": true
         }
     }
 }
