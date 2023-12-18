@@ -68,5 +68,14 @@
             ],
             "isMajor": true
         }
+    },
+    "7": {
+        "text": [
+            "Introducing SHAREKEY 2.0\n",
+            "SRM (Sharekey Rights Management): MAJOR feature that empowers you to assign precise Roles (Viewer, Editor, or Admin) to any team member, granting them specific Rights (such as reshare, download, print, rename, create link, delete,...) when sharing any item.\n",
+            "Enhanced Privacy Controls: Thanks to SRM and Sharekey Secure Viewer, accessible across all devices, you can now share Images, Videos, PDFs and Folders in View Only mode, ensuring NO screenshot, NO resharing, NO download, NO printing,...\n",
+            "Confidential Sharing: Share any item with a wide audience while keeping everyone's identity confidential. No one else will know who has access to the shared item, guaranteeing utmost privacy and security for your business collaboration.\n"
+        ],
+        "isMajor": true
     }
 }
