@@ -1,11 +1,13 @@
 {
 	"0": {
 		"text": [
-			"Sharekey Rights Management: added ability to set default Role",
-			"Sign Up: professional emails check for new accounts.",
-			"Channels: improved experience of adding new members sorting them by last message.",
-			"Enhanced Cybersecurity: added rights check to address potential vulnerabilities.",
-			"Bug Fixes & Improvements: we fixed bugs and made additional enhancements in Chat, Calls and Annotations for a better experience."
+			"SRM (Sharekey Rights Management): a Role can be set by Default for all sharings.",
+			"Large Files: Desktop & Web apps support 1GB file uploads/downloads.",
+			"Secure Viewer: arrow key scrolling enabled for PDFs.",
+			"Channels: when adding Members to a Channel, they are now sorted on their most recent message to you.",
+			"Sign Up: only professional email addresses now accepted to create an account.",
+			"Enhanced Cybersecurity: increased security checks on Rights.",
+			"Bug Fixes & Improvements: mainly in Direct/Channels, Video Calls and Annotations for a better user experience."
 		]
 	}
 }
