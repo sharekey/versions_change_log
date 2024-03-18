@@ -1,0 +1,8 @@
+{
+	"0": {
+		"text": [
+			"Sharing Annotations: added ability to share annotations to Contacts from PDF and Direct. It is possible to unshare own and view received annotations.",
+			"Annotations User Experience: added indicators of received/shared annotations in Chat."
+		]
+	}
+}
