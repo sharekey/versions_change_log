@@ -1,8 +1,12 @@
 {
 	"0": {
 		"text": [
-			"Sharing Annotations: added ability to share annotations to Contacts from PDF and Direct. It is possible to unshare own and view received annotations.",
-			"Annotations User Experience: added indicators of received/shared annotations in Chat."
+			"Private Annotation Sharing now available!",
+			"Annotate PDFs and share your Annotations securely with other Executives.",
+			"Visualise easily your Shared and Received Annotations with new indicators in Direct/Channels.",
+			"View all Received Annotations on a single PDF.",
+			"Unshare your Annotations seamlessly as needed.",
+			"All Annotations are heavily encrypted and can only be decrypted by the Executives with whom the Annotations are shared."
 		]
 	}
 }
