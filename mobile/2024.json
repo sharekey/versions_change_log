@@ -5,5 +5,13 @@
             "Enhanced SRM (Sharekey Rights Management)\nEnsure \"View Only\" data sharing with no screenshots, downloads, resharing, or printing for top confidentiality and security.\n",
             "Enhanced Share Extension\nShare content from other apps directly to SHAREKEY with integrated SRM Rights, protecting your shared content under specified conditions.\n\nElevate your data privacy & sharing capabilities.\n"
         ]
+    },
+    "2": {
+        "text": [
+            "Redesigned Action Sheets: Now, simply long-press on any message, an Action Sheet slides up from the bottom of the screen, displaying ALL relevant options and enabling you to easily execute the desired actions.\n",
+            "Redesigned Profile: It is now easier to view and copy the 'KEY' of any Member.\n",
+            "Major software upgrade (libraries and SDK).\n",
+            "Bug fixes & other improvements.\n"
+        ]
     }
 }
