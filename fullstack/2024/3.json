@@ -1,0 +1,12 @@
+{
+	"0": {
+		"text": [
+			"Added shared/received annotations indicators in PDF info.",
+			"Added New Received annotations counter and new labels in annotations modal.",
+			"Ability to select and delete own annotations.",
+			"Ability to share annotations together with PDF to Channels.",
+			"Enhanced Cybersecurity: address potential vulnerabilities.",
+			"Bug Fixes & Other Improvements for annotations in PDF."
+		]
+	}
+}
