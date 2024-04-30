@@ -1,12 +1,15 @@
 {
 	"0": {
 		"text": [
-			"Added shared/received annotations indicators in PDF info.",
-			"Added New Received annotations counter and new labels in annotations modal.",
-			"Ability to select and delete own annotations.",
-			"Ability to share annotations together with PDF to Channels.",
-			"Enhanced Cybersecurity: address potential vulnerabilities.",
-			"Bug Fixes & Other Improvements for annotations in PDF."
+			"Release focused mainly on sharing encrypted PDF Annotations for the Board Room:",
+			"Added Indicators on each Member in PDF Info to show when Annotations are shared & received.",
+			"Added Counter and Sticker \"New\" when new Annotations are received.",
+			"Added Toasters and Info Widgets to enhance Annotations Sharing experience.",
+			"Ability to select & delete easily ALL your own Annotations.",
+			"Ability to share PDF Annotations to Channels.",
+			"Enhanced Privacy: text on PDF cannot be copied when shared as \"View Only\".",
+			"Enhanced Cybersecurity Measures following cyber audit & pen tests.",
+			"Bug Fixes & Other Improvements mainly for Annotations in PDF."
 		]
 	}
 }
