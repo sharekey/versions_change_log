@@ -13,5 +13,13 @@
             "Major software upgrade (libraries and SDK).\n",
             "Bug fixes & other improvements.\n"
         ]
+    },
+    "4": {
+        "text": [
+            "PDF Annotations received can now be viewed in your mobile app, and you can select which ones to see by Sender.\n",
+            "Push Notifications received by your Contacts are updated immediately when you Edit or Delete a message, ensuring there are no privacy breaches.\n",
+            "Push Notifications are now bundled and received in a summary by Direct / Channels.\n",
+            "Other improvements and bug fixes.\n"
+        ]
     }
 }
