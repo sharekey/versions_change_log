@@ -1,0 +1,13 @@
+{
+	"0": {
+		"text": [
+			"Added Company tab with ability to find and connect with Members of user Company.",
+			"Added ability to change visibility in Company tab in user Privacy and Security options.",
+			"Added ability to select/clear all users during the process for sharing/unsharing Annotations to improve UX.",
+			"Improved UI of Sharekey Rights Management control modal.",
+			"Channels where Calls are in progress now are shown on top to improve UX of Group Calls.",
+			"Updated colors for Annotations Highlighter.",
+			"Bug Fixes & Other Improvements."
+		]
+	}
+}
