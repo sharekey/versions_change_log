@@ -1,13 +1,13 @@
 {
 	"0": {
 		"text": [
-			"Added Company tab with ability to find and connect with Members of user Company.",
-			"Added ability to change visibility in Company tab in user Privacy and Security options.",
-			"Added ability to select/clear all users during the process for sharing/unsharing Annotations to improve UX.",
-			"Improved UI of Sharekey Rights Management control modal.",
-			"Channels where Calls are in progress now are shown on top to improve UX of Group Calls.",
-			"Updated colors for Annotations Highlighter.",
-			"Bug Fixes & Other Improvements."
+			"Company View: added a \"Company\" tab in \"People\" to find and connect with all Company Members. Filter based on email addresses.",
+			"Company View: added the option to turn off account visibility.",
+			"SRM (Sharekey Rights Management): Improved modal to better manage Viewer, Editor or Admin roles.",
+			"Group Calls: Channels with active calls are now displayed at the top for improved accessibility.",
+			"PDF Annotations: added Select All / Clear All options when selecting Members.",
+			"PDF Annotations: updated highlighter colours for better visibility.",
+			"Bug fixes & other improvements."
 		]
 	}
 }
