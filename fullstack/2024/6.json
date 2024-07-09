@@ -1,10 +1,9 @@
 {
 	"0": {
 		"text": [
-			"Ability to set specific time for auto logout from devices.",
-			"Annotations: added select with new sizes for textbox.",
-			"User Interface: improved actions dropdown for Shared folder.",
-			"Bug fixes & other improvements."
+			"Auto-Logout: You can now set a timer from 1 week to 24 months as a security measure to control when you will be automatically logged out of your Sharekey account, starting from the date of your last activity. The default timer is now set to 6 months (previously 3 months).",
+			"Encrypted Annotations on PDF: Various enhancements, including the ability to select a specific text size for text boxes.",
+			"Bug Fixes & Improvements: Various bug fixes and other improvements have been made to enhance your experience."
 		]
 	}
 }
