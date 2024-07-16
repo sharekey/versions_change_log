@@ -30,21 +30,10 @@
         ]
     },
     "6": {
-        "ios": {
-            "text": [
-                "Auto-Logout: You can now set a timer from 1 week to 24 months as a security measure to control when you will be automatically logged out of your Sharekey account, starting from the date of your last activity. The default timer is now set to 6 months (previously 3 months).\n",
-                "Channel: A dedicated system message now displays the old and new Channel names when a Channel is renamed.\n",
-                "Bug Fixes & Improvements: Various bug fixes and other improvements have been made to enhance your experience.\n"
-            ]
-        },
-        "android": {
-            "text": [
-                "Auto-Logout: Set a timer from 1 week to 24 months as a security measure to control when you will be automatically logged out of your Sharekey account. The default timer is now 6 months (previously 3 months).\n",
-                "Channel: System messages now display old and new Channel names when renamed.\n",
-                "Enhanced Share Extension: Improved to easily share links & content from various apps into Sharekey.\n",
-                "Enhanced Cybersecurity Features.\n",
-                "Bug fixes & other improvements.\n"
-            ]
-        }
+        "text": [
+            "Auto-Logout: You can now set a timer from 1 week to 24 months as a security measure to control when you will be automatically logged out of your Sharekey account, starting from the date of your last activity. The default timer is now set to 6 months (previously 3 months).\n",
+            "Channel: A dedicated system message now displays the old and new Channel names when a Channel is renamed.\n",
+            "Bug Fixes & Improvements: Various bug fixes and other improvements have been made to enhance your experience.\n"
+        ]
     }
 }
