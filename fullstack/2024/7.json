@@ -1,0 +1,12 @@
+{
+	"0": {
+		"text": [
+			"Ability to unshare and delete items from Channels and Shared Media.",
+			"Ability to upload folders to Channels and Drive in Web app",
+			"Sign In: ability to Login using Passkeys.",
+			"Annotations Textbox: ability to change color, alignment, text size, background after creation",
+			"Downloading folders stabilisation",
+			"Bug fixes & other improvements."
+		]
+	}
+}
