@@ -1,12 +1,13 @@
 {
 	"0": {
 		"text": [
-			"Ability to unshare and delete items from Channels and Shared Media.",
-			"Ability to upload folders to Channels and Drive in Web app",
-			"Sign In: ability to Login using Passkeys.",
-			"Annotations Textbox: ability to change color, alignment, text size, background after creation",
-			"Downloading folders stabilisation",
-			"Bug fixes & other improvements."
+			"Unshare Items: just right-click to unshare items from Directs, Channels, and Shared Media — without deleting them from your storage.",
+			"Store & Share BIG items: you can now upload & download individual files over 10GB and folders with 10K+ files, with full encryption, using your Desktop or Web app.",
+			"Sign In with Passkey: add in Settings a secure alternative to Email login using Passkey as Two-Factor Authentication (2FA) with options like Windows Hello, fingerprint, password manager and security key.",
+			"Enhanced PDF Annotation: modify Text Box colour, alignment, size, and background post-creation, with auto-tabulated text for better readability.",
+			"Message Co-Edition: improved in preparation for the upcoming mobile launch.",
+			"View Only: added extra restrictions for the View Only role to enhance content privacy.",
+			"Bug Fixes & Improvements: various bug fixes and other improvements have been made to enhance your experience."
 		]
 	}
 }
