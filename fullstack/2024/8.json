@@ -1,12 +1,12 @@
 {
 	"0": {
 		"text": [
-			"Channel Management: Added the ability to assign Managers as proxies to add/remove Members and manage Channel descriptions.",
-			"External Link: Sender can now set files sharing as ‘View-only’ for Images, Videos & PDF, preventing file downloads.",
-			"External Link: Receiver without a Sharekey account can now upload & download large folders remotely.",
-			"Company Tab: Included company logo and employee count information (Desktop app).",
-			"Image Viewer: Introduced zoom in/out functionality for viewing images.",
-			"General Updates: Bug fixes and performance improvements."
+			"Channel Management: you can now assign Managers as delegates to add/remove Members and manage Channel descriptions.",
+			"External Link: Receivers of a shared link can now Download and Upload large Folders remotely without a Sharekey account, making the link a two-way send link for both Files & Folders.",
+			"External Link: you can now also set a shared link as \"View-only\", preventing downloads of Images, Videos, PDFs and Folders.",
+			"Company Tab: added Company logo and number of Employees using Sharekey (Desktop app only).",
+			"Image Viewer: added Zoom In/Out functionality for Images.",
+			"Bug Fixes & Improvements have been made to enhance your experience."
 		]
 	}
 }
