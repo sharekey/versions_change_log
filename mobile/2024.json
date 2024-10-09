@@ -44,26 +44,26 @@
     "8": {
         "ios": {
             "text": [
-                "Sign In with Passkey: add in Settings a secure alternative to Email login using Passkey as Two-Factor Authentication (2FA) with options like fingerprint, password manager and security key.",
-                "Channel Management: assign Managers as delegates to add/remove Members and manage Channel descriptions.",
-                "Co-Editable Message: make your message editable by other selected Members. Just long tap on your message and select « Make Editable ».",
-                "Company View in \"People\": find easily & connect with all Company employees. Filter based on email addresses.",
-                "Unshare Items: from Directs, Channels and Shared Media — without deleting them from your storage.",
-                "External Link: you can now also set a shared link as \"View-only\", preventing downloads of Images, Videos, PDFs and Folders.",
-                "Bug Fixes & UI/UX Improvements across the app."
+                "Sign In with Passkey: add in Settings a secure alternative to Email login using Passkey as Two-Factor Authentication (2FA) with options like fingerprint, password manager and security key.\n",
+                "Channel Management: assign Managers as delegates to add/remove Members and manage Channel descriptions.\n",
+                "Co-Editable Message: make your message editable by other selected Members. Just long tap on your message and select « Make Editable ».\n",
+                "Company View in \"People\": find easily & connect with all Company employees. Filter based on email addresses.\n",
+                "Unshare Items: from Directs, Channels and Shared Media — without deleting them from your storage.\n",
+                "External Link: you can now also set a shared link as \"View-only\", preventing downloads of Images, Videos, PDFs and Folders.\n",
+                "Bug Fixes & UI/UX Improvements across the app.\n"
             ]
         },
         "android": {
             "text": [
                 "Sign In with Passkey for secure 2FA (fingerprint, security key,...). ",
-                "Channel Management: assign delegates to manage a Channel.",
-                "Co-Editable Messages: allow selected Members to co-edit your message.",
-                "Company View in \"People\" added for easy connections.",
-                "Unshare items without deleting them.",
-                "External Link sharing now offers \"View-only\" mode.",
-                "Share Extension: Improved UX.",
-                "App opening: 35% faster.",
-                "Bug fixes & UI/UX enhancements."
+                "Channel Management: assign delegates to manage a Channel.\n",
+                "Co-Editable Messages: allow selected Members to co-edit your message.\n",
+                "Company View in \"People\" added for easy connections.\n",
+                "Unshare items without deleting them.\n",
+                "External Link sharing now offers \"View-only\" mode.\n",
+                "Share Extension: Improved UX.\n",
+                "App opening: 35% faster.\n",
+                "Bug fixes & UI/UX enhancements.\n"
             ]
         }
     }
