@@ -1,12 +1,13 @@
 {
 	"0": {
 		"text": [
-			"Download account data (Desktop app): ability to download all your data with different filters.",
-			"Internal Viewer: ability to unshare/delete items from opened viewer.",
-			"External Link: ability to view supported video formats from Mobile",
-			"Improved UI of modals with lists of items",
-			"Optimised uploading big files on Desktop",
-			"Bug Fixes & Improvements have been made to enhance your experience."
+			"Storage Indicator in Settings: SHAREKEY now offers 50MB of free storage for solo professionals or teams (up to 5), available for 1 year.",
+			"Download account data (Desktop app): Enhanced capability for downloading all your data from Sharekey with advanced filter options (coming soon to Web app).",
+			"Internal Viewer: Added options to unshare or delete items directly within the Viewer.",
+			"External Link: Ability to view now commonly used video formats when the link is opened on Mobile.",
+			"UI Enhancements: Improved modals for large lists, added connection request toaster notification, and refined UI elements on Windows app.",
+			"Upload Optimisation: Enhanced upload performance for large file (> 1GB) on Desktop.",
+			"Bug Fixes & Improvements: General fixes for improved User Experience."
 		]
 	}
 }
