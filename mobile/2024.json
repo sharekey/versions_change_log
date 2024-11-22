@@ -66,5 +66,14 @@
                 "Bug fixes & UI/UX enhancements.\n"
             ]
         }
+    },
+    "9": {
+        "text": [
+            "MAJOR Feature: Sharekey Introduces “OnPrem” Mode.\nThe new Data Residency Switcher (on Sign In screen) allows to choose between an On-Premise server (self hosted) or Sharekey’s secure Cloud in Switzerland (Zurich).\n",
+            "Storage Indicator in Settings: SHAREKEY now offers 50MB of free storage for solo professionals or teams (up to 5), available for 1 year.\n",
+            "Improved Performance: Enhanced account sync & loading speed.\n",
+            "WebRTC library (video calls): Upgraded for improved stability.\n",
+            "Bug fixes & UI/UX enhancements.\n"
+        ]
     }
 }
