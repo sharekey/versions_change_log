@@ -1,0 +1,12 @@
+{
+	"0": {
+		"text": [
+			"Multi Move: Introduced Multi Move functionality for files.",
+			"WYSIWYG: Added basic bold formatting for messages.",
+			"Download Account Data: Enabled the option to download all data directly from the Web.",
+			"Notifications: Web notifications are now available in browser.",
+			"Upload: Increased the message attachment limit to 30.",
+			"Bug Fixes & Improvements: General fixes for improved User Experience."
+		]
+	}
+}
