@@ -1,11 +1,11 @@
 {
 	"0": {
 		"text": [
-			"Multi Move: Introduced Multi Move functionality for files.",
-			"WYSIWYG: Added basic bold formatting for messages.",
-			"Download Account Data: Enabled the option to download all data directly from the Web.",
-			"Notifications: Web notifications are now available in browser.",
-			"Upload: Increased the message attachment limit to 30.",
+			"Push Notifications: Receive notifications even when your browser is closed.",
+			"Multi-Move in Drive: Move multiple files and shortcuts at once.",
+			"Bold Messages: Use ** before and after text to highlight it as BOLD.",
+			"Uploads: Attach up to 30 items per message.",
+			"Download Data (Web): Download all your data with advanced filters on Edge and Chrome.",
 			"Bug Fixes & Improvements: General fixes for improved User Experience."
 		]
 	}
