@@ -1,10 +1,9 @@
 {
 	"0": {
 		"text": [
-			"Ability to start and stop screen sharing when call is collapsed.",
-			"Group calls user experience update.",
-			"Preparation to support group calls on mobile devices.",
-			"Bug Fixes & Improvements: General fixes for improved User Experience."
+			"Release dedicated to VIDEOCONFERENCING, enabling this long-awaited feature across all devices: Web, Desktop, and Mobile (with the Mobile app coming soon).",
+			"Video Group Calls: lots of improvements such as Start/Stop screen sharing while call is minimised, improved Pin/Unpin, updated Participants order, mic muted by default, call duration indication on ended calls, new animations,...",
+			"Bug Fixes & Other Improvements: General fixes for improved User Experience."
 		]
 	}
 }
