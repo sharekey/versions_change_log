@@ -74,5 +74,11 @@
             "WebRTC library (video calls): Upgraded for improved stability.\n",
             "Bug fixes & UI/UX enhancements.\n"
         ]
+    },
+    "10": {
+        "text": [
+            "MAJOR long-awaited feature: VISIOCONFERENCING now available on any device, including mobile devices, supporting up to 25 participants in audio & video calls, secured with app-to-app encryption to keep your communications private.\n",
+            "Bug fixes & UI/UX enhancements.\n"
+        ]
     }
 }
