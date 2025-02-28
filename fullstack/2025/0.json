@@ -1,18 +1,14 @@
 {
 	"0": {
 		"text": [
-			"Ability to put and manage watermark on PDF.",
-			"Create folder from External Link.",
- 			"Calls improvements: new joining process, updated user interface and user experience",
-			"Co-editable messages with attachments.",
-			"Emails for Passkey created and deleted.",
-			"Location info field for files and folders added in Chat.",
-			"Updated user experience to assign Channel Manager.",
-			"Improved user experience of sending invitation.",
-			"Updated close icons around the applicaiton.",
-			"Improved downloaded account data.",
-			"Improved naming when items names are the same.",
-			"Bug Fixes & Other Improvements mainly for Calls."
+			"Visio Conferencing: Major UX/UI improvements across all platforms, including Join/Leave/Rejoin calls experiences and seamless Return to calls while using the app.",
+			"Parallel Calls: Ability to run multiple calls simultaneously using ONE single account on different devices.",
+ 			"View-Only Sharing with Watermarks: Major feature preventing screenshots or picture-taking on highly confidential PDFs.",
+			"External Link: UX/UI improvements & ability to create sub-folders.",
+			"Message Co-Editing: now with attachments.",
+			"Passkey: emails notifications when a Passkey is added & deleted.",
+			"Assign Channel Manager: Enhanced UX/UI.",
+			"Bug Fixes & Other Improvements."
 		]
 	}
 }
