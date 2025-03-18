@@ -8,5 +8,12 @@
             "Bold Text: Use ** before and after text to highlight it as bold.\n",
             "Bug Fixes & Other Improvements.\n"
         ]
+    },
+    "2": {
+        "text": [
+            "View-Only Sharing with Watermarks on Images & PDFs: Major feature preventing picture-taking on highly confidential items. Screenshots are already disabled.\n",
+            "Privately share your Secret Phrase with an IT Administrator during Sign Up or when required: 1st step toward the upcoming Admin Console.\n",
+            "Bug Fixes & Other UX/UI Improvements.\n"
+        ]
     }
 }
