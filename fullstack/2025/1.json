@@ -1,10 +1,10 @@
 {
 	"0": {
 		"text": [
-			"Ability to put and manage watermark on images.",
-			"Ability to Share Secret phrase.",
-			"Added draft for voice message.",
-			"Internal Viewer: ability to zoom in/out via keyboard.",
+			"View-Only Sharing with Watermarks now available for Images: Major feature preventing screenshots or unauthorised picture-taking on highly confidential Items. Already deployed for PDFs.",
+			"Privately share your Secret Phrase with an IT Administrator during Sign Up or when required: 1st step toward the upcoming Admin Console.",
+			"Save Voice Messages as Draft and send them later.",
+			"In-App Viewer: ability to Zoom in/out using keyboard shortcuts.",
 			"Bug Fixes & Other Improvements."
 		]
 	}
