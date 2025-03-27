@@ -15,5 +15,11 @@
             "Privately share your Secret Phrase with an IT Administrator during Sign Up or when required: 1st step toward the upcoming Admin Console.\n",
             "Bug Fixes & Other UX/UI Improvements.\n"
         ]
+    },
+    "3": {
+        "text": [
+            "Enhanced Share Extension : Easily share Images & PDFs in View-Only mode with Watermarks — from various apps into SHAREKEY. Major feature preventing picture-taking on highly confidential items. Screenshots are already disabled.\n",
+            "Bug Fixes & Other UX/UI Improvements.\n"
+        ]
     }
 }
