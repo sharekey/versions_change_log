@@ -1,12 +1,12 @@
 {
 	"0": {
 		"text": [
-			"Broadcast channel and channel settings.",
-			"Grant access on items in Channel.",
-			"Quote and dividers for message.",
-			"Reshare own message.",
-			"Flags emojis for MacOS.",
-			"Bug Fixes & Other Improvements."
+			"Broadcast Channel: Major feature for sharing content with a large audience. Members can no longer send messages and start group calls. Classic Channels can be converted into Broadcast Channels, and vice versa.",
+			"Reader Mode in Channel: Display only the essentials and focus on what matters (see Channel Settings).",
+			"Dividers & Quotes: Improve your communications by adding visual separators & quoted text.",
+			"Reshare: Major feature allowing you to re-share your entire messages — including all items — to other Members or Channels. Only you can re-share your own messages.",
+			"Grant Access feature in Item Info: Quickly add eligible Channel Members who need access to a shared Item.",
+			"Bug Fixes & Other UX/UI Improvements."
 		]
 	}
 }
