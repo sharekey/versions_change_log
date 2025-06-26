@@ -30,5 +30,18 @@
             "Data Residency / On-Premise Switcher on Sign-In Screen: Allow Sharekey rollout in new European countries (coming soon).\n",
             "Bug Fixes & Other UX/UI Improvements.\n"
         ]
+    },
+    "5": {
+        "text": [
+            "Reader Mode : Added to Directs.\n",
+            "External Links : Apply custom watermark for enhanced privacy.\n",
+            "Grant Access All : Added in Item Info.\n",
+            "Company and Discover : Filter your Contacts.\n",
+            "Italic Messages: Use * before & after text to highlight it as ITALIC.\n",
+            "Multiple UI changes (buttons, fonts, modals).\n",
+            "Data Residency : Added UI elements when app hosted in other countries (being rolled out)\n",
+            "Bug fixes & other improvements.\n",
+            "Major Software Upgrade (libraries & SDK) enhancing overall security.\n"
+        ]
     }
 }
