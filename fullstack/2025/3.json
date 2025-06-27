@@ -1,13 +1,17 @@
 {
 	"0": {
 		"text": [
-			"Watermark on Folder.",
-			"Watermark on External Link.",
-			"Grant Access in Item Info for all channel participants.",
-			"Revoke Access from all users.",
-			"Data residency info.",
-			"Filter for Company and Discover to show / hide contacts.",
-			"Bug Fixes & Other UX/UI Improvements."
+			"Reader Mode : Added to Directs.",
+			"External Links : Apply custom watermark for enhanced privacy.",
+			"Folder : Apply watermark on any Folder (files & subfolders).",
+			"Grant & Revoke Access All : Added in Item Info.",
+			"Company and Discover : Filter your Contacts.",
+			"Group Call : Speaking users highlighted.",
+			"Bold & Italic Messages : Use CTRL B and CTRL I.",
+			"Italic Messages : Use * before & after text to highlight as ITALIC.",
+			"Multiple UI changes (buttons, fonts, modals).",
+			"Data Residency : Added UI elements when app hosted in other countries (being rolled out).",
+			"Bug fixes & other improvements."
 		]
 	}
 }
