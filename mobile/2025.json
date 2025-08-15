@@ -43,5 +43,17 @@
             "Bug fixes & other improvements.\n",
             "Major Software Upgrade (libraries & SDK) enhancing overall security.\n"
         ]
+    },
+    "6": {
+        "text": [
+            "Channel: Add Members to a Channel at any point in its history (now or past date).\n",
+            "Channel Info: Connect directly with other Members. \n",
+            "Reshare: Re-share your own messages to other Members or Channels. \n",
+            "Visioconference: Enhanced Green Frame sensitivity & noise filtering. \n",
+            "Company / Discover: Show or hide your Contacts preference is now remembered across devices.\n",
+            "App \"Securing...\": Improved overall performance.\n",
+            "UX/UI: General improvements across the entire app.\n",
+            "Bugs: Miscellaneous fixes\n"
+        ]
     }
 }
