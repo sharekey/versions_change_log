@@ -1,13 +1,14 @@
 {
 	"0": {
 		"text": [
-			"Internal viewer: Ability to search in PDF.",
-			"Channel History: Restrict history for users.",
-			"Sharing annotations to not your contacts now available.",
-			"Channel: Connect to members from Channel info",
-			"Group Call: Speaking users highlighting sensitivity improved.",
-			"Rights Control user experience improvements.",
-			"Bug fixes & other improvements."
+			"Channel (Major Feature): Add Members to a Channel at any point in its history (now or past date). Can also be changed later.",
+			"Channel Info: Added new button to connect directly with other Members.",
+			"PDF Annotations: Share annotations with Members, even if you are not connected.",
+			"PDF Search: Faster performance on large PDFs.",
+			"Visioconference: Enhanced Green Frame sensitivity & noise filtering.",
+			"Company / Discover: Show or hide your Contacts preference is now remembered across devices.",
+			"UX/UI: General improvements across the entire app (Rights Management, File Info, etc.)",
+			"Bugs: Miscellaneous fixes."
 		]
 	}
 }
