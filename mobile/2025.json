@@ -55,5 +55,25 @@
             "UX/UI: General improvements across the entire app.\n",
             "Bugs: Miscellaneous fixes.\n"
         ]
+    },
+    "7": {
+        "android": {
+            "text": [
+                "UX/UI improvements across the entire app (Calls, Chats, Co-editing, Roles & Watermarks).\n",
+                "Smoother network connections.\n",
+                "Clearer encrypted video & audio calls.\n",
+                "Samsung Z Fold: UI fixes & improved visuals.\n",
+                "Bugs: Miscellaneous fixes.\n"
+            ]
+        },
+        "ios": {
+            "text": [
+                "UX/UI improvements across the entire app (Calls, Chats, Co-editing, Roles & Watermarks).\n",
+                "Smoother network connections.\n",
+                "Clearer encrypted video & audio calls.\n",
+                "Bugs: Miscellaneous fixes.\n"
+            ]
+        }
     }
 }
+
