@@ -74,6 +74,18 @@
                 "Bugs: Miscellaneous fixes.\n"
             ]
         }
+    },
+    "8": {
+        "android": {
+            "text": [
+                "Various improvements & fixes for Android 16.\n"
+            ]
+        },
+        "ios": {
+            "text": [
+                "Various improvements & fixes for iOS 26 and iPhone 17 series.\n"
+            ]
+        }
     }
 }
 
