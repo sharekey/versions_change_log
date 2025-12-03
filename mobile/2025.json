@@ -86,6 +86,13 @@
                 "Various improvements & fixes for iOS 26 and iPhone 17 series.\n"
             ]
         }
+    },
+    "9": {
+        "text": [
+            "Major Tech Upgrade: Enhanced security and performance across the entire platform for all apps (mobile, web, and desktop).\n",
+            "Security: Reports from our software security scanning tools (Snyk, Sonar, Yarn,...) are available upon request.\n",
+            "Bugs: Miscellaneous fixes and improvements.\n"
+        ]
     }
 }
 
