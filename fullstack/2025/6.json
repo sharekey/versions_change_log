@@ -1,10 +1,10 @@
 {
 	"0": {
 		"text": [
-			"Reactions on Messages.",
-			"Search for files.",
-			"Guide for notifications.",
-			"Manager+ for Channels.",
+			"Search (Major Feature) : easily find your items across Direct Messages, Channels and Drive.",
+			"Message Reactions: add up to 3 emojis per message or item.",
+			"Notifications: Guide added in Settings to help you configure notifications, including background notifications (when the browser is closed).",
+			"Channel Manager+: upgraded Managers can now promote or revoke other Managers.",
 			"Bugs: Miscellaneous fixes and improvements."
 		]
 	}
