@@ -93,6 +93,13 @@
             "Security: Reports from our software security scanning tools (Snyk, Sonar, Yarn,...) are available upon request.\n",
             "Bugs: Miscellaneous fixes and improvements.\n"
         ]
+    },
+    "10": {
+        "text": [
+            "Message Reactions: add up to 3 emojis per message or item.\n",
+            "Channel Manager+: upgraded Managers can now promote or revoke other Managers.\n",
+            "Bug Fixes & Minor Improvements\n"
+        ]
     }
 }
 
