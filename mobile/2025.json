@@ -100,6 +100,11 @@
             "Channel Manager+: upgraded Managers can now promote or revoke other Managers.\n",
             "Bug Fixes & Minor Improvements\n"
         ]
+    },
+    "11": {
+        "text": [
+            "Miscellaneous fixes and minor improvements following our recent software upgrade.\n"
+        ]
     }
 }
 
