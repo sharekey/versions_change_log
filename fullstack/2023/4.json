@@ -7,6 +7,8 @@
 			"Files with long names: Improved UX to make file management easier.",
 			"Direct Messages/Channels: Improved navigation by adding an \"arrow button\" for quick access to the most recent message while scrolling through content.",
 			"Bug fixes & other improvements."
-		]
+		],
+		"timestamp": 1685622900000,
+		"isMajorRelease": false
 	}
 }

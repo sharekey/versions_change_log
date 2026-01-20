@@ -5,6 +5,8 @@
       "Help section added with How-to Tutorial presenting the key features of the app.",
       "User Interface improvements for Channel creation and empty screens.",
       "Bug fixes & other improvements."
-    ]
+    ],
+    "timestamp": 1675915860000,
+    "isMajorRelease": false
   }
 }

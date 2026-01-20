@@ -6,6 +6,8 @@
 			"Improved Shared Media: additional features added to make managing your items within Shared Media even more convenient. Just like in your Direct, Channels, and Drive, you can now easily rename files and folders, delete voice messages and links, and more other advanced features.",
 			"Improved User Experience: loaders added in specific areas, such as Messages and Drive, providing clearer indications of progress.",
 			"Bug Fixes & Other Improvements: As always, we have resolved numerous bugs and implemented additional enhancements to further improve the user experience of the application."
-		]
+		],
+		"timestamp": 1686592500000,
+		"isMajorRelease": false
 	}
 }

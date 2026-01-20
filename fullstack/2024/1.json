@@ -7,6 +7,8 @@
 			"Revoke Access: performance significantly improved for large folders.",
 			"Enhanced Cybersecurity: increased security checks on Rights.",
 			"Bug Fixes & Other Improvements: we addressed various bugs and made additional enhancements for a better experience."
-		]
+		],
+		"timestamp": 1710133440000,
+		"isMajorRelease": false
 	}
 }

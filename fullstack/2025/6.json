@@ -6,6 +6,8 @@
 			"Message Reactions: Add up to 3 emojis per message or item.",
 			"Channel Manager+: Upgraded Managers can now promote or revoke other Managers.",
 			"Bugs: Miscellaneous fixes and improvements."
-		]
+		],
+		"timestamp": 1766077200000,
+		"isMajorRelease": false
 	}
 }

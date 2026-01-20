@@ -10,6 +10,8 @@
       "Confirmation added to start or end a call",
       "Search improvements to enrich the User Experience",
       "Other improvements and bug fixes"
-    ]
+    ],
+    "timestamp": 1669103580000,
+    "isMajorRelease": true
   }
 }

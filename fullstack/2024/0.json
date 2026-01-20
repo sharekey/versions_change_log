@@ -8,6 +8,8 @@
 			"Sign Up: only professional email addresses now accepted to create an account.",
 			"Enhanced Cybersecurity: increased security checks on Rights.",
 			"Bug Fixes & Improvements: mainly in Direct/Channels, Video Calls and Annotations for a better user experience."
-		]
+		],
+		"timestamp": 1706682960000,
+		"isMajorRelease": false
 	}
 }

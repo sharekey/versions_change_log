@@ -9,6 +9,8 @@
 			"Passkey: emails notifications when a Passkey is added & deleted.",
 			"Assign Channel Manager: Enhanced UX/UI.",
 			"Bug Fixes & Other Improvements."
-		]
+		],
+		"timestamp": 1740974700000,
+		"isMajorRelease": false
 	}
 }

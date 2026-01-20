@@ -6,6 +6,8 @@
 			"Improved User Experience: introduced intuitive icons for PDFs and eye-catching thumbnails for Images throughout the application, making it effortless to find your desired items.",
 			"Enhanced Cybersecurity: regular cyber reviews including software libraries & packages updates to tackle potential vulnerabilities.",
 			"Bug Fixes & Other Improvements."
-		]
+		],
+		"timestamp": 1690799700000,
+		"isMajorRelease": false
 	}
 }

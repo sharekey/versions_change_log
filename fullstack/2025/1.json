@@ -6,6 +6,8 @@
 			"Save Voice Messages as Draft and send them later.",
 			"In-App Viewer: ability to Zoom in/out using keyboard shortcuts.",
 			"Bug Fixes & Other Improvements."
-		]
+		],
+		"timestamp": 1744207200000,
+		"isMajorRelease": false
 	}
 }

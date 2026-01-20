@@ -12,6 +12,8 @@
 			"Multiple UI changes (buttons, fonts, modals).",
 			"Data Residency : Added UI elements when app hosted in other countries (being rolled out).",
 			"Bug fixes & other improvements."
-		]
+		],
+		"timestamp": 1751287800000,
+		"isMajorRelease": false
 	}
 }

@@ -7,6 +7,8 @@
 			"Uploads: Attach up to 30 items per message.",
 			"Download Data is now also available on Web App (Edge & Chrome): Download all your data with advanced filters.",
 			"Bug Fixes & Improvements: General fixes for improved User Experience."
-		]
+		],
+		"timestamp": 1734028200000,
+		"isMajorRelease": false
 	}
 }

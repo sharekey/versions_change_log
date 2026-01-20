@@ -7,6 +7,8 @@
 			"Company Tab: added Company logo and number of Employees using Sharekey (Desktop app only).",
 			"Image Viewer: added Zoom In/Out functionality for Images.",
 			"Bug Fixes & Improvements have been made to enhance your experience."
-		]
+		],
+		"timestamp": 1729003200000,
+		"isMajorRelease": false
 	}
 }

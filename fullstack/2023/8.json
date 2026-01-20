@@ -8,6 +8,8 @@
 			"File Upload: smooth indications when items are uploaded and encrypted in DMs/Channels.",
 			"Enhanced Cybersecurity: benefit from regular cybersecurity reviews, including updates to software libraries and packages, to address potential vulnerabilities.",
 			"Bug Fixes & Other Improvements: we addressed various bugs and made additional enhancements for a better experience."
-		]
+		],
+		"timestamp": 1697285400000,
+		"isMajorRelease": false
 	}
 }

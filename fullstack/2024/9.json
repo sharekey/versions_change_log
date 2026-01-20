@@ -8,6 +8,8 @@
 			"UI Enhancements: Improved modals for large lists, added connection request toaster notification, and refined UI elements on Windows app.",
 			"Upload Optimisation: Enhanced upload performance for large file (> 1GB) on Desktop.",
 			"Bug Fixes & Improvements: General fixes for improved User Experience."
-		]
+		],
+		"timestamp": 1731596400000,
+		"isMajorRelease": false
 	}
 }

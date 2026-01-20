@@ -4,6 +4,8 @@
 			"Major Tech Upgrade: Enhanced security and performance across the entire platform for all apps (mobile, web, and desktop).",
 			"Security: Reports from our software security scanning tools (Snyk, Sonar, Yarn,...) are available upon request.",
 			"Bugs: Miscellaneous fixes and improvements."
-		]
+		],
+		"timestamp": 1765254000000,
+		"isMajorRelease": false
 	}
 }

@@ -6,6 +6,8 @@
       "Free space is now limited to 100 MB",
       "Basics of Company Management",
       "Fix bugs & other improvements"
-    ]
+    ],
+    "timestamp": 1674645660000,
+    "isMajorRelease": false
   }
 }

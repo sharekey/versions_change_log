@@ -8,6 +8,8 @@
 			"PDF Annotations: added Select All / Clear All options when selecting Members.",
 			"PDF Annotations: updated highlighter colours for better visibility.",
 			"Bug fixes & other improvements."
-		]
+		],
+		"timestamp": 1718716500000,
+		"isMajorRelease": false
 	}
 }

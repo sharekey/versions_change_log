@@ -7,6 +7,8 @@
 			"Reshare: Major feature allowing you to re-share your entire messages — including all items — to other Members or Channels. Only you can re-share your own messages.",
 			"Grant Access feature in Item Info: Quickly add eligible Channel Members who need access to a shared Item.",
 			"Bug Fixes & Other UX/UI Improvements."
-		]
+		],
+		"timestamp": 1747886400000,
+		"isMajorRelease": false
 	}
 }

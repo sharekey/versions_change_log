@@ -4,6 +4,8 @@
 			"Auto-Logout: You can now set a timer from 1 week to 24 months as a security measure to control when you will be automatically logged out of your Sharekey account, starting from the date of your last activity. The default timer is now set to 6 months (previously 3 months).",
 			"Encrypted Annotations on PDF: Various enhancements, including the ability to select a specific text size for text boxes.",
 			"Bug Fixes & Improvements: Various bug fixes and other improvements have been made to enhance your experience."
-		]
+		],
+		"timestamp": 1720530300000,
+		"isMajorRelease": false
 	}
 }

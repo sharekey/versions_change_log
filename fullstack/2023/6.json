@@ -5,6 +5,8 @@
 			"Annotations Auto-Saving: Improved User Experience by displaying notifications to confirm your work is always saved.",
 			"Folder Upload Improvement: After a folder has been uploaded, you can now see the previews of PDF and Video files within all folders and sub-folders, making it easier to organize and access your content.",
 			"Bug Fixes & Other Improvements: We have addressed browser-specific issues and enhanced the stability of our In-App Viewer, ensuring a smoother and more reliable experience overall."
-		]
+		],
+		"timestamp": 1688956200000,
+		"isMajorRelease": false
 	}
 }

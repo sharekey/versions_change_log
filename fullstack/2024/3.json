@@ -10,6 +10,8 @@
 			"Enhanced Privacy: text on PDF cannot be copied when shared as \"View Only\".",
 			"Enhanced Cybersecurity Measures following cyber audit & pen tests.",
 			"Bug Fixes & Other Improvements mainly for Annotations in PDF."
-		]
+		],
+		"timestamp": 1716183240000,
+		"isMajorRelease": false
 	}
 }

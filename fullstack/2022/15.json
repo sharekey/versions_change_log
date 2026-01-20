@@ -7,6 +7,8 @@
       "\"Safe\" is renamed \"Drive\"",
       "Calls performance improvements",
       "Fix bugs & other improvements"
-    ]
+    ],
+    "timestamp": 1671517320000,
+    "isMajorRelease": false
   }
 }

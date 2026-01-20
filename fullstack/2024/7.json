@@ -8,6 +8,8 @@
 			"Message Co-Edition: improved in preparation for the upcoming mobile launch.",
 			"View Only: added extra restrictions for the View Only role to enhance content privacy.",
 			"Bug Fixes & Improvements: various bug fixes and other improvements have been made to enhance your experience."
-		]
+		],
+		"timestamp": 1726752600000,
+		"isMajorRelease": false
 	}
 }

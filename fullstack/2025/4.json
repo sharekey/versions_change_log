@@ -9,6 +9,8 @@
 			"Company / Discover: Show or hide your Contacts preference is now remembered across devices.",
 			"UX/UI: General improvements across the entire app (Rights Management, File Info, etc.)",
 			"Bugs: Miscellaneous fixes."
-		]
+		],
+		"timestamp": 1763438700000,
+		"isMajorRelease": false
 	}
 }
