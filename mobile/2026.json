@@ -4,5 +4,13 @@
             "Message Editing: improved experience, making it easier to type & edit long messages.\n",
             "Bug Fixes & Minor Improvements.\n"
         ]
+    },    
+    "2": {
+        "text": [
+            "Calls: Improved overall call stability.\n",
+            "Video: Added the option to hide your self-view during video calls.\n",
+            "Reactions: Added more emojis.\n",
+            "Bug Fixes & Minor Improvements.\n"
+        ]
     }
 }
