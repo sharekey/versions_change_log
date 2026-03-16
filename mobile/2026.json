@@ -12,5 +12,13 @@
             "Reactions: Added more emojis.\n",
             "Bug Fixes & Minor Improvements.\n"
         ]
+    },
+    "3": {
+        "text": [
+            "Replies (Major Feature): Now available across Mobile, Web and Desktop apps.\n",
+            "Editor+: New option for the Editor role to allow or restrict item downloads.\n",
+            "Connection Management: Remove a Contact & Reconnect anytime.\n",
+            "Bug Fixes & Minor Improvements.\n"
+        ]
     }
 }
