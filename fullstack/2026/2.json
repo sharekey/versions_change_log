@@ -1,0 +1,13 @@
+{
+	"0": {
+		"text": [
+			"Ability to upload files up to 50 GB and uploading process stabilisation.",
+			"Optimised multiple files uploading with clear uploading progress.",
+			"Added paste option in message input via right click.",
+			"Added animation for Emojies modal.",
+			"Enabled Passkey for login for Monaco and Luxembourg Desktop App.",
+			"Channels initial loading performance improvement.",
+			"Bugs: Miscellaneous fixes and improvements."
+		]
+	}
+}
