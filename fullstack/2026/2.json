@@ -1,13 +1,13 @@
 {
 	"0": {
 		"text": [
-			"Ability to upload files up to 50 GB and uploading process stabilisation.",
-			"Optimised multiple files uploading with clear uploading progress.",
-			"Added paste option in message input via right click.",
-			"Added animation for Emojies modal.",
-			"Enabled Passkey for login for Monaco and Luxembourg Desktop App.",
-			"Channels initial loading performance improvement.",
-			"Bugs: Miscellaneous fixes and improvements."
+			"Big Files: Upload large files up to 50 GB per file (including External Links).",
+			"Multiple File Uploads: Improved upload experience with clearer progress indicators.",
+			"Channels: Improved initial loading performance.",
+			"Message Input: Added a paste option on right-click.",
+			"Emoji Modal: Added animations for a smoother experience.",
+			"Sign-In with Passkey: Now available on Desktop app in Monaco and Luxembourg.",
+			"Bug Fixes: Various fixes and general performance improvements."
 		]
 	}
 }
