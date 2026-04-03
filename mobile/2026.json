@@ -20,5 +20,12 @@
             "Connection Management: Remove a Contact & Reconnect anytime.\n",
             "Bug Fixes & Minor Improvements.\n"
         ]
+    },
+    "4": {
+        "text": [
+            "Better user connection experience.\n",
+            "More reliable file uploads on unstable networks.\n",
+            "Bug Fixes & Minor Improvements.\n"
+        ]
     }
 }
