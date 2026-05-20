@@ -27,5 +27,25 @@
             "More reliable file uploads on unstable networks.\n",
             "Bug Fixes & Minor Improvements.\n"
         ]
+    },
+    "5": {
+        "ios": {
+            "text": [
+                "Enhanced Chat experience: message rendering, drafts, reactions & media opening.\n",
+                "Enhanced Drive experience in unstable networks: file uploads, folder actions & navigation.\n",
+                "Polished core UI elements across menus: pop-ups, modals, avatars, inputs, action bars, emoji picker & co-editing screens.\n",
+                "Vulnerability scanning with AI tools: comprehensive security audit successfully completed. Report available on demand.\n"
+            ]
+        },
+        "android": {
+            "text": [
+                "Enhanced Chat experience: message rendering, drafts, reactions & media viewing.\n",
+                "Improved App responsiveness after calls: smoother transitions back into the app.\n",
+                "Enhanced Call experience: across active, background & locked-device states.\n",
+                "Enhanced Drive experience in unstable networks: file uploads, folder actions & navigation.\n",
+                "Polished core UI elements across menus: pop-ups, modals, avatars, inputs, action bars, emoji picker & co-editing screens.\n",
+                "Vulnerability scanning with AI tools: comprehensive security audit successfully completed. Report available on demand.\n"
+            ]
+        }
     }
 }
