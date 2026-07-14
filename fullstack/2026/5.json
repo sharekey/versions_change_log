@@ -1,12 +1,11 @@
 {
 	"0": {
 		"text": [
-			"Archives for Directs and Channels.",
-			"Disconnect/Reconnect v2 with deleting messages and revoke/restore access.",
-			"Indicator for Reactions on own messages.",
-			"Welcome email for new user.",
-			"Specific domains in emails for support in regions.",
-			"New contact push notification for Inviter on autoconnect.",
+			"Archive now available on right-click for Directs/Channels.",
+			"Disconnect/Reconnect available with new options to Delete all messages and Revoke/Restore access to shared content.",
+			"Indicator in Directs/Channels lists when Reactions are applied.",
+			"Actions dropdown available on right-click in Directs/Channels lists.",
+			"Push notification sent to Inviter when a new Contact autoconnects.",
 			"Bugs: miscellaneous fixes & improvements."
 		]
 	}
