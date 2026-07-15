@@ -1,11 +1,11 @@
 {
 	"0": {
 		"text": [
-			"Archive now available on right-click for Directs/Channels.",
-			"Disconnect/Reconnect available with new options to Delete all messages and Revoke/Restore access to shared content.",
-			"Indicator in Directs/Channels lists when Reactions are applied.",
-			"Actions dropdown available on right-click in Directs/Channels lists.",
-			"Push notification sent to Inviter when a new Contact autoconnects.",
+			"Archive: now available on right-click for Directs/Channels.",
+			"Disconnect/Reconnect: new options to Delete all messages and Revoke/Restore access to all shared content.",
+			"Actions dropdown: available on right-click in Directs/Channels lists.",
+			"Reactions: indicator is shown in Directs/Channels lists when Reactions are applied.",
+			"Push notification: sent to Inviter when a new Contact autoconnects.",
 			"Bugs: miscellaneous fixes & improvements."
 		]
 	}
