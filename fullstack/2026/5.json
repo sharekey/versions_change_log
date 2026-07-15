@@ -7,6 +7,7 @@
 			"Reactions: indicator is shown in Directs/Channels lists when Reactions are applied.",
 			"Push notification: sent to Inviter when a new Contact autoconnects.",
 			"Bugs: miscellaneous fixes & improvements."
-		]
+		],
+		"timestamp": 1784093340000
 	}
 }
