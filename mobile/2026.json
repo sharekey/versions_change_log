@@ -47,5 +47,15 @@
                 "AI-powered vulnerability code scanning successfully completed.\n"
             ]
         }
+    },
+    "6": {
+        "text": [
+            "Archive: now available on long-press in Directs/Channels.\n",
+            "Disconnect/Reconnect: new options to Delete all messages and Revoke/Restore access to all shared content.\n",
+            "Actions dropdown: available on long-press in Directs/Channels lists.\n",
+            "Reactions: indicator is shown in Directs/Channels lists when Reactions are applied.\n",
+            "Push notification: sent to Inviter when a new Contact autoconnects.\n",
+            "Bugs: miscellaneous fixes & improvements.\n"
+        ]
     }
 }
