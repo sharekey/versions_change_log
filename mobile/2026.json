@@ -57,5 +57,16 @@
             "Push notification: sent to Inviter when a new Contact autoconnects.\n",
             "Bugs: miscellaneous fixes & improvements.\n"
         ]
+    },
+    "7": {
+        "text": [
+            "Reactions: Direct & Channels move up when someone reacts to your messages.\n",
+            "Archive: accessible now from both Direct and Channels.\n",
+            "Drive: keep your current location while navigating the app.\n",
+            "Improved file sharing, link previews, and call reliability.\n",
+            "Performance & interface improvements.\n",
+            "Message security: strengthened with additional digital signature checks to verify message authenticity and integrity.\n",
+            "Bugs: miscellaneous fixes & improvements.\n"
+        ]
     }
 }
