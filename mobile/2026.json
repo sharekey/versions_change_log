@@ -68,5 +68,26 @@
             "Message security: strengthened with additional digital signature checks to verify message authenticity and integrity.\n",
             "Bugs: miscellaneous fixes & improvements.\n"
         ]
+    },
+    "8": {
+        "iOS": {
+            "text": [
+                "MAJOR FEATURE: open \"in app\" MS Office docs in View-Only Mode (no download, no screenshot) with Watermark protection on iOS devices.\n",
+                "MAJOR Platform Upgrade: enabling significant improvements.\n",
+                "Enhanced Performance:  faster app opening, smoother navigation & overall interactions.\n",
+                "Enhanced Security: your data in the app is now better protected with an additional layer of encryption.\n",
+                "Sharing from other Apps: improved experience with a completion indicator.\n",
+                "Bugs: miscellaneous fixes & improvements.\n"
+            ]
+        },
+        "android": {
+            "text": [
+                "MAJOR Platform Upgrade: enabling significant improvements.\n",
+                "Enhanced Performance:  faster app opening, smoother navigation & overall interactions.\n",
+                "Enhanced Security: your data in the app is now better protected with an additional layer of encryption.\n",
+                "Sharing from other Apps: improved experience with a completion indicator.\n",
+                "Bugs: miscellaneous fixes & improvements.\n"
+            ]
+        }
     }
 }
